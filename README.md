@@ -153,15 +153,3 @@ and [LERF](https://github.com/kerrj/lerf),
   year={2023}
 }
 ```
-
-### Citation
-If you find the project is useful, please consider citing:
-
-``` 
-@misc{sam-nerf,
-    Author = {Feng Wang, Zilong Chen and Huaping Liu},
-    Year = {2023},
-    Note = {https://github.com/WangFeng18/Explore-Sam-in-NeRF/tree/main},
-    Title = {SamNeRF: A Simple Baseline for Segmenting Anything in NeRF with Language Prompts}
-}
-```
